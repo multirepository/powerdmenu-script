@@ -14,6 +14,6 @@ Usage:
 open dmenu ```Mod + P```, search ```powerdmenu```
 
 Colors note for my dwm config:
-```-sb "#595856"```
+```-sb "#565656"```
 
 Have a good day!
